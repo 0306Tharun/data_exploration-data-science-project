@@ -410,14 +410,5 @@ Truncated output or formatting issues
 - [Understanding Outliers](https://www.statisticshowto.com/statistics-basics/find-outliers/)
 - [Exploratory Data Analysis](https://www.ibm.com/cloud/learn/exploratory-data-analysis)
 
-## 👤 Author
 
-Data Science Team
 
-## 📄 License
-
-This project is for educational and business analysis purposes.
-
----
-
-**Last Updated**: November 7, 2025
